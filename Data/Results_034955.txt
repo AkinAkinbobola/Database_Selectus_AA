@@ -1,0 +1,4 @@
+Name,Date of Joining,Department,Salary
+Gilly,08/06/2013 00:00:00,Finance,15000
+Hannah,02/11/2017 00:00:00,Finance,28000
+Billy,11/11/2015 00:00:00,IT,20000
